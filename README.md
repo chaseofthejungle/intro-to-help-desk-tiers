@@ -38,6 +38,6 @@
 
 ## 5. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
-
-<hr />
+* *[HelpDesk Service & Ticketing Software Official Website](https://www.helpdesk.com/)*
+* *[Atlassian AI Official Website](https://www.atlassian.com/)*
+* *[sysaid AI Help Desk Software Official Website](https://www.sysaid.com/it-service-management-software/help-desk-software)*
