@@ -4,33 +4,40 @@
 
 #### Table of Contents
 
-1. [Tier I](#one)
-2. [Tier II](#two)
-3. [Tier III](#three)
-4. [Tier IV](#four)
+1. [Tier 0](#zero)
+1. [Tier 1](#one)
+2. [Tier 2](#two)
+3. [Tier 3](#three)
+4. [Tier 4](#four)
 5. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. <a name="one">Tier I</a>
+## 1. <a name="zero">Tier 0</a>
 
 (TODO)
 
 <hr />
 
-## 2. <a name="two">Tier II</a>
+## 1. <a name="one">Tier 1</a>
 
 (TODO)
 
 <hr />
 
-## 3. <a name="three">Tier III</a>
+## 2. <a name="two">Tier 2</a>
 
 (TODO)
 
 <hr />
 
-## 4. <a name="four">Tier IV</a>
+## 3. <a name="three">Tier 3</a>
+
+(TODO)
+
+<hr />
+
+## 4. <a name="four">Tier 4</a>
 
 (TODO)
 
