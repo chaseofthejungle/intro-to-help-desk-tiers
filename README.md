@@ -4,41 +4,41 @@
 
 #### Table of Contents
 
-1. [Tier 0](#zero)
-2. [Tier 1](#one)
-3. [Tier 2](#two)
-4. [Tier 3](#three)
-5. [Tier 4](#four)
+1. [Tier 0: Self-Service](#zero)
+2. [Tier 1: Simpler Tasks](#one)
+3. [Tier 2: Intermediate Tasks](#two)
+4. [Tier 3: Complex Tasks](#three)
+5. [Tier 4: Third Party Support](#four)
 6. [Tier Comparison Table](#compare)
 7. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. <a name="zero">Tier 0</a>
+## 1. <a name="zero">Tier 0: Self-Service</a>
 
 (TODO)
 
 <hr />
 
-## 2. <a name="one">Tier 1</a>
+## 2. <a name="one">Tier 1: Simpler Tasks</a>
 
 (TODO)
 
 <hr />
 
-## 3. <a name="two">Tier 2</a>
+## 3. <a name="two">Tier 2: Intermediate Tasks</a>
 
 (TODO)
 
 <hr />
 
-## 4. <a name="three">Tier 3</a>
+## 4. <a name="three">Tier 3: Complex Tasks</a>
 
 (TODO)
 
 <hr />
 
-## 5. <a name="four">Tier 4</a>
+## 5. <a name="four">Tier 4: Third Party Support</a>
 
 (TODO)
 
