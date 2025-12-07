@@ -1,6 +1,6 @@
 # Intro to Help Desk Tiers Overview Guide
 
-**TODO:** A brief overview guide of help desk tiers.
+**Description/Overview:** *Help desk tiering* provides an efficient hierarchical system (often mapped from tiers 0 through 3, but potentially including a fourth tier) for transferring client (e.g., customers, students, employees) support issues depending upon the complexity of their needs. Lower tiers are intended for handling common, everyday tasks (such as password resets and unlocking accounts) and escalating the more advanced and technically strenuous issues to higher-level tiers for resolution.
 
 #### Table of Contents
 
