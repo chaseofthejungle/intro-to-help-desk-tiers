@@ -51,8 +51,7 @@
 | Purpose | | | | | |
 | Goals | | | | | |
 | Responsibilities | | | | | |
-| Who Does It | | | | | |
-
+| Who Does It | Self-Service (User) | Tier 1 Help Desk Agents | Tier 2 Help Desk Agents | Internal Experts | External Experts (Outsourced) |
 
 <hr />
 
