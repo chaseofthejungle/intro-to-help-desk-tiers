@@ -46,7 +46,13 @@
 
 ## 6. <a name="compare">Tier Comparison Table</a>
 
-(TODO)
+| | Tier 0 | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Purpose | | | | | |
+| Goals | | | | | |
+| Responsibilities | | | | | |
+| Who Does It | | | | | |
+
 
 <hr />
 
