@@ -48,7 +48,7 @@
 
 | | Tier 0 | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Purpose | | | | | |
+| Purpose | User Guides, Chat Bots, and Other Automated/AI Solutions | Human Contact for Simple Tasks/Resolutions | Tech Support for More Complicated Tasks | Tech Support for Tasks of Even Greater Complexity | Specialized Support Relying on Third Party/Vendor Expertise |
 | Goals | | | | | |
 | Responsibilities | | | | | |
 | Who Does It | Self-Service (User) | Tier 1 Help Desk Agents | Tier 2 Help Desk Agents | Internal Experts | External Experts (Outsourced) |
