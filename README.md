@@ -16,7 +16,12 @@
 
 ## 1. <a name="zero">Tier 0: Self-Service</a>
 
-(TODO)
+**Tier 0** is based on the technical solutions that an organization provides to its clients to assist themselves in troubleshooting, with either no or very little communications between clients and organizational employees. Some examples include:
+
+* *Social media and forums* that empower clients to collaborate in problem solving.
+* *Service catalogs* that point clients to help documentation.
+* *Centralized repositories* providing user guides, step-by-step solitions, and similar resources to clients.
+* *Self-service portals* that prompt clients to note the problems in need of support.
 
 <hr />
 
