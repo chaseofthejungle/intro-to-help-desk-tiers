@@ -16,7 +16,7 @@
 
 ## 1. <a name="zero">Tier 0: Self-Service</a>
 
-**Tier 0** is based on the technical solutions that an organization provides to its clients to assist themselves in troubleshooting, with either no or very little communications between clients and organizational employees. Some examples include:
+**Tier 0** is based on the technical solutions that an organization provides to its clients to assist themselves in troubleshooting, with either no or very little communications between clients and organizational employees. Some examples of Tier 0 support include:
 
 * *Social media and forums* that empower clients to collaborate in problem solving.
 * *Service catalogs* that point clients to help documentation.
@@ -27,7 +27,15 @@
 
 ## 2. <a name="one">Tier 1: Simpler Tasks</a>
 
-(TODO)
+**Tier 1** serves as the first step for direct interpersonal communications in the support process, and it is the level in which most help desk tickets get resolved. If problems can be resolved at this step, then the higher-level tiers can remain free to deal with more complex tech support issues. Some examples of Tier 1 support include:
+
+* Various simpler *troubleshooting* tasks.
+* Managing *user accounts*.
+* Managing incidents with *patches*/similar fixes and *software installations*.
+* Providing *documentation* to users.
+* *Detecting* if more severe issues may be present.
+* Other simple tech support tasks.
+* *Escalating* tickets to higher-level tiers, if necessary.
 
 <hr />
 
